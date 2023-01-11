@@ -29,12 +29,6 @@
       "body": "new blog",
       "author": "Mario",
       "id": 5
-    },
-    {
-      "title": "Testing",
-      "body": "new blogski",
-      "author": "Yoshi",
-      "id": 6
     }
   ]
 }
